@@ -1,4 +1,3 @@
-<img width="1919" height="928" alt="page 1" src="https://github.com/user-attachments/assets/cc884895-c507-415a-be3f-4ebef14c3afc" />
 This project is a dynamic and interactive **Sales Insights Report** built using **Power BI**, which analyzes and visualizes sales performance across various dimensions like Region, Segment, Category, and Time.
 
 ---
