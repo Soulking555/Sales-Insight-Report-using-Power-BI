@@ -69,4 +69,3 @@ You can explore the published version of the report here:
 
 This project is for educational and portfolio purposes. All data used is either dummy or publicly available.
 
-# Sales-Insight-Report-using-Power-BI
