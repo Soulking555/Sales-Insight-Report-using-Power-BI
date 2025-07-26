@@ -65,9 +65,6 @@ You can explore the published version of the report here:
 **[🔗 Click to View Report](https://app.powerbi.com/groups/314d3af4-677e-446d-889b-e0511476574f/reports/5506607d-760a-4677-988b-6651b96805ef/9c48c7f462c1f8b07044?experience=power-bi)**
 
 
-
----
-
 ## 📎 License
 
 This project is for educational and portfolio purposes. All data used is either dummy or publicly available.
