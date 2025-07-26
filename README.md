@@ -1,4 +1,4 @@
-# 📊 Sales Insights Report using Power BI
+<img width="1919" height="928" alt="page 1" src="https://github.com/user-attachments/assets/cc884895-c507-415a-be3f-4ebef14c3afc" /><img width="1919" height="928" alt="page 1" src="https://github.com/user-attachments/assets/c9b3cb1b-b2af-45ac-96e7-14a73fa38125" /># 📊 Sales Insights Report using Power BI
 
 This project is a dynamic and interactive **Sales Insights Report** built using **Power BI**, which analyzes and visualizes sales performance across various dimensions like Region, Segment, Category, and Time.
 
@@ -35,7 +35,8 @@ The goal of this report is to help business stakeholders monitor sales, profit, 
 
 ## 🖼️ Report Preview
 
-> ![Report Screenshot](desktop.png)  
+> ![Report Screenshot](<img width="1919" height="928" alt="page 1" src="https://github.com/user-attachments/assets/6392fa21-50bc-448f-bd98-8f4b9f285acd" />)
+
 > _Interactive report with regional and segment-based analysis_
 
 ---
