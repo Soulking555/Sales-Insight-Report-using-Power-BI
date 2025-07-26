@@ -35,7 +35,7 @@ The goal of this report is to help business stakeholders monitor sales, profit, 
 
 ## 🖼️ Report Preview
 
-> ![Report Screenshot](screenshots/sales-report-preview.png)  
+> ![Report Screenshot](desktop.png)  
 > _Interactive report with regional and segment-based analysis_
 
 ---
